@@ -1,0 +1,7 @@
+Purpose of package
+* express - for starting server
+* mysql - to connect node.js to mysql
+* dotenv - for sensitive information
+* hbs - handle bars, template for the html 
+* bycryptjs - to hash passwords
+* jsonwebtoken - helps starts putting tokens into cookies
